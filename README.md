@@ -68,10 +68,10 @@ This project is the base for my presentation of a CI/CD pipeline. Using GitHub A
 
 The GitHUb Actions workflow utilizes three secret variables : 
 
-* AWS_S3_BUCKET: Your AWS Bucket Name
-* AWS_ACCESS_KEY_ID: Your AWS User Access Key ID
-* AWS_SECRET_ACCESS_KEY: Your AWS User Secret Key
-* AWS_REGION: Your prefered AWS Region (ex : eu-west-3 for the Paris region)
+1. AWS_S3_BUCKET: Your AWS Bucket Name
+2. AWS_ACCESS_KEY_ID: Your AWS User Access Key ID
+3. AWS_SECRET_ACCESS_KEY: Your AWS User Secret Key
+4. AWS_REGION: Your prefered AWS Region (ex : eu-west-3 for the Paris region)
 
 * With the previously downloaded csv file or copied variables naviagte to your GitHub repository
 * Navigate to the **Secrets** tab
