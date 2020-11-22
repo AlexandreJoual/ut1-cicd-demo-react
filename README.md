@@ -2,7 +2,7 @@
 
 This project is the base for my presentation of a CI/CD pipeline. Using GitHub Actions, the application can deploy a static React site to an AWS S3 bucket.  
 
-## Prerequisite            
+## Prerequisites           
 
 * An AWS Account
 * A fork of this repository set to private (WARNING : For security purposes make sure your secrets are stored in the repository settings and not in code)
