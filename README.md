@@ -1,6 +1,6 @@
-# UT1 Demo React
+# UT1 Demo React CI/CD Pipeline with GitHUb Actions
 
-This project is the base for my presentation of a CI/CD pipeline. Using GitHub Actions, the application can deploy a static React site to an AWS S3 bucket.  
+This project is the base for my presentation of a CI/CD pipeline. Using GitHub Actions, the pipeline will deploy a static React site to an AWS S3 bucket.  
 
 ## Prerequisites           
 
